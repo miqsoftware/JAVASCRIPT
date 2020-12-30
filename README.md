@@ -1,2 +1,2 @@
 # javaScript
-Entendendo For-Of no Javascript
+Funcionalidades do javascript
